@@ -43,6 +43,8 @@ pip install uuid xlrd
 
 登录[南京航空航天大学研究生信息管理系统](http://graduate.nuaa.edu.cn/gmis5/home/stulogin)，进入到“课程学习”-“选课结果查询”模块之中，点击“导出数据”，获得一份选课结果的Excel文件。
 
+![导出课表](https://qn.rneko.com/20202007/2010-M.png)
+
 在交给 ClasstableToIcal 处理之前，我们需要先对该课表文件做一些预先处理。
 
 #### 拆分课表
@@ -225,7 +227,6 @@ Windows10系统使用系统的“邮件与日历”应用，登录对应账号�
 ![日历应用](https://qn.rneko.com/20202007/2002-F.png)
 
 ![任务栏](https://qn.rneko.com/20202007/1948-p.png)
-
 
 
 
