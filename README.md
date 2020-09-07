@@ -1,4 +1,4 @@
-# ClasstableToIcal_优雅地将课表导入日历
+# 优雅地将课表导入日历
 
 ## 为什么要把课表导入日历呢？
 
@@ -19,7 +19,7 @@
 
 在[**@Triple-Z**](https://github.com/Triple-Z)、[@MiaoTony](https://github.com/miaotony)等同学的努力下，我校本科生已经可以很方便地从教务系统，获取课表并生成 iCal 日历文件，以导入Google Calendar、Outlook或系统日历。
 
-具体项目参见https://github.com/miaotony/NUAA_ClassSchedule，还有一个漂亮的在线版本https://anyknew.a2os.club/。
+具体项目参见[NUAA_ClassSchedul](https://github.com/miaotony/NUAA_ClassSchedule)，该项目还有一个漂亮又易用的[在线版本](https://anyknew.a2os.club/)。
 
 而遗憾的是截至目前，研究生信息管理系统还尚未对接成功，所以无法一键导出=_=。但得益于[@陈某豪](https://sspai.com/u/iobi2v7m/updates)和[@SunsetYe66](https://github.com/SunsetYe66)的贡献，我们依然可以较为优雅地将课表转换为ics日历文件。
 
@@ -111,7 +111,7 @@ classTeacher - 可选，教师名
 最后两个可选字段如果不需要可以关闭，只需在 excel_reader.py 中的 27 和 28 行将：
 self.config["isClassSerialEnabled"] = [1, 7]
 self.config["isClassTeacherEnabled"] = [1, 8]
-后方的方框中，要关闭的功能的 1 改成 0 即可（即 [0, 7] 或 [0, 8]）。
+后方的方框中，要关闭的功能的 1 改成 0 即可（即 [0, 7] 或 ​[0, 8]​）。
 
 注意：若课程有不同排课方式或一周有多节课，需要分多条记录录入。
 ```
@@ -225,7 +225,6 @@ Windows10系统使用系统的“邮件与日历”应用，登录对应账号�
 ![日历应用](https://qn.rneko.com/20202007/2002-F.png)
 
 ![任务栏](https://qn.rneko.com/20202007/1948-p.png)
-
 
 
 
