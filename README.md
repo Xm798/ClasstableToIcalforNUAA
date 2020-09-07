@@ -145,7 +145,7 @@ self.config["isClassTeacherEnabled"] = [1, 8]
 
 打开命令提示符或终端，定位到该项目根目录下。
 
-![img](https://cdn.sspai.com/2020/03/27/0a6dccddce3cfb1c5092abaa95ade2a4.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
+![终端](https://cdn.sspai.com/2020/03/27/0a6dccddce3cfb1c5092abaa95ade2a4.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
 
 然后执行 main.py：
 
@@ -155,21 +155,21 @@ python main.py
 python3 main.py
 ```
 
-![img](https://cdn.sspai.com/2020/03/27/fc4aea7f78366215bea3bdbf11fccc4c.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
+![](https://cdn.sspai.com/2020/03/27/fc4aea7f78366215bea3bdbf11fccc4c.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
 
 首先**选 2 进入课程信息读取工具**：若未修改过 Excel 文件结构，直接回车即可；若提示成功，文件夹中将多出一个新的 JSON 文件。
 
-![img](https://cdn.sspai.com/2020/03/27/aa879429832ef4987b4f314dc6b93465.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
+![](https://cdn.sspai.com/2020/03/27/aa879429832ef4987b4f314dc6b93465.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
 
 此时，再输入 3 进入 iCal 生成工具，按提示输入必需信息后即可生成最终文件。请注意此处输入的日期必须严格按照提示输入**开学第一周周一的日期**，且该日期的格式是 `YYYYMMDD`，即 **年年年年月月日日**，中间不加符号。
-
-![img](https://cdn.sspai.com/2020/03/27/fb9ccfb6880a34247b17aeb94a1a183a.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
+我校2020-2021学年第一学期第一周时间为20200831。
+![](https://cdn.sspai.com/2020/03/27/fb9ccfb6880a34247b17aeb94a1a183a.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
 
 ### 周数生成器
 
 为了更方便查看课程表，本项目还附带一个「周数指示器」生成器。只需要在运行 `main.py` 选择 1 即可进入。
 
-![img](https://cdn.sspai.com/2020/03/27/2d56520a92860e6c58a6faf345d55039.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
+![](https://cdn.sspai.com/2020/03/27/2d56520a92860e6c58a6faf345d55039.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
 
 请注意，与之前必须输入第一周周一的逻辑不同，若以第一周的工作日为 **2020.3.2-3.6** 为例，该处输入日期的逻辑为：
 
@@ -186,7 +186,7 @@ python3 main.py
 
 直接将生成的文件传输到手机后点击打开，选择“导入日历”即可。
 
-![img](https://cdn.sspai.com/2020/03/27/3cb27efb119e6e979a1f3b70f2ce00eb.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
+![iOS导入日历](https://cdn.sspai.com/2020/03/27/3cb27efb119e6e979a1f3b70f2ce00eb.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
 
 ### Android与Windows设备
 
