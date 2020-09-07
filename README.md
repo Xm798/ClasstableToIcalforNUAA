@@ -168,7 +168,7 @@ python3 main.py
 
 #### Google Calendar导入
 
-电脑端打开https://calendar.google.com/，选择添加其他日历-导入，记得选择一个单独的日历，如果没有，可以新建一个。点击导入，即可完成。
+电脑端打开[Google Calendar](https://calendar.google.com/)，选择添加其他日历-导入，记得选择一个单独的日历，如果没有，可以新建一个。点击导入，即可完成。
 
 ![电脑端导入Google Calendar](https://qn.rneko.com/20202007/1923-Q.png)
 
