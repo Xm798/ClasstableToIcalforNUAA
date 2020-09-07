@@ -130,4 +130,4 @@ conf_classInfo*.json
 test*.py
 .idea/
 ~$*.xls*
-classInfo.xlsx
+课表.xlsx
