@@ -1,32 +1,72 @@
 {
     "1": {
-        "name": "第 1、2 节",
-        "startTime": "082000",
-        "endTime": "095500"
+        "name": "上午1-上午2",
+        "startTime": "080000",
+        "endTime": "0945000"
     },
     "2": {
-        "name": "第 3、4 节",
-        "startTime": "101500",
-        "endTime": "115000"
+        "name": "上午1-上午3",
+        "startTime": "080000",
+        "endTime": "110500"
     },
     "3": {
-        "name": "第 5、6 节",
-        "startTime": "130000",
-        "endTime": "143500"
+        "name": "上午1-上午4",
+        "startTime": "080000",
+        "endTime": "120000"
     },
     "4": {
-        "name": "第 7、8 节",
-        "startTime": "145500",
-        "endTime": "163000"
+        "name": "上午2-上午3",
+        "startTime": "085500",
+        "endTime": "110500"
     },
     "5": {
-        "name": "第 9、10 节",
-        "startTime": "180000",
-        "endTime": "193500"
+        "name": "上午2-上午4",
+        "startTime": "085500",
+        "endTime": "120000"
     },
     "6": {
-        "name": "第 9、10、11 节",
-        "startTime": "180000",
-        "endTime": "202500"
+        "name": "上午3-上午4",
+        "startTime": "101500",
+        "endTime": "120000"
+    },
+    "7": {
+        "name": "下午5-下午6",
+        "startTime": "140000",
+        "endTime": "154500"
+    },
+    "8": {
+        "name": "下午5-下午7",
+        "startTime": "140000",
+        "endTime": "170500"
+    },
+    "9": {
+        "name": "下午5-下午8",
+        "startTime": "140000",
+        "endTime": "180000"
+    },
+    "10": {
+        "name": "下午6-下午7",
+        "startTime": "145500",
+        "endTime": "170500"
+    },
+    "11": {
+        "name": "下午6-下午8",
+        "startTime": "145500",
+        "endTime": "180000"
+    },
+    "12": {
+        "name": "下午7-下午8",
+        "startTime": "161500",
+        "endTime": "180000"
+    },
+    "13": {
+        "name": "晚上9-晚上10",
+        "startTime": "184500",
+        "endTime": "203000"
+    },
+    "14": {
+        "name": "晚上9-晚上11",
+        "startTime": "184500",
+        "endTime": "212500"
     }
 }
