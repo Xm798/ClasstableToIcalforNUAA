@@ -15,6 +15,21 @@
 
 那么，何乐而不为呢？
 
+### 效果展示
+
+
+![Windows日历应用](https://qn.rneko.com/20202007/2002-F.png)
+
+![Windows任务栏](https://qn.rneko.com/20202007/1948-p.png)
+
+![iOS日历应用 (from SunsetYeu)](https://cdn.sspai.com/2020/03/27/a5542bf3ae121cba462ee8387c1e9428.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
+
+![Sorted3 (from SunsetYeu)](https://cdn.sspai.com/2020/03/27/5621d33ea3e1a9da1adba462065c2fd4.png?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
+
+![MIUI系统日历](https://qn.rneko.com/20202007/1954-b.png)
+
+![课程详情](https://qn.rneko.com/20202007/1954-Q.png)
+
 ## 如何将课表导入日历
 
 在[@Triple-Z](https://github.com/Triple-Z)、[@MiaoTony](https://github.com/miaotony)等同学的努力下，我校本科生已经可以很方便地从教务系统，获取课表并生成 iCal 日历文件，以导入Google Calendar、Outlook或系统日历。
@@ -217,16 +232,6 @@ python3 main.py
 Windows10系统使用系统的“邮件与日历”应用，登录对应账号，即可完成电脑端平台的日历同步。
 
 如果是使用Google服务，需要先解除UWP应用的代理限制，请自行搜索“解除UWP应用网络隔离”，或参阅[Win10解除UWP应用网络隔离允许访问代理](https://blog.rneko.com/archives/12/)。推荐使用**Fiddler**中的**WinConfig**模块，全部解除隔离。
-
-### 效果展示
-
-![手机系统日历](https://qn.rneko.com/20202007/1954-b.png)
-
-![课程详情](https://qn.rneko.com/20202007/1954-Q.png)
-
-![日历应用](https://qn.rneko.com/20202007/2002-F.png)
-
-![任务栏](https://qn.rneko.com/20202007/1948-p.png)
 
 
 
