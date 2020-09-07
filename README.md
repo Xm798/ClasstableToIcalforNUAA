@@ -17,7 +17,7 @@
 
 ## 如何将课表导入日历
 
-在[**@Triple-Z**](https://github.com/Triple-Z)、[@MiaoTony](https://github.com/miaotony)等同学的努力下，我校本科生已经可以很方便地从教务系统，获取课表并生成 iCal 日历文件，以导入Google Calendar、Outlook或系统日历。
+在[@Triple-Z](https://github.com/Triple-Z)、[@MiaoTony](https://github.com/miaotony)等同学的努力下，我校本科生已经可以很方便地从教务系统，获取课表并生成 iCal 日历文件，以导入Google Calendar、Outlook或系统日历。
 
 具体项目参见[NUAA_ClassSchedul](https://github.com/miaotony/NUAA_ClassSchedule)，该项目还有一个漂亮又易用的[在线版本](https://anyknew.a2os.club/)。
 
